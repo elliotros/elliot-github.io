@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Firasansbold";
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/Firasansbold/Firasansbold.ttf); 
+}
+
+@font-face {
+  font-family: "Firasansheavy";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../fonts/Firasansheavy/Firasansheavy.ttf); 
+}
+
+
+@font-face {
+  font-family: "Firasanslight";
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts/Firasanslight/Firasanslight.ttf);
+}
+
+@font-face {
+  font-family: "Firasanshair";
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts/Firasanshair/Firasanshair.ttf);
+}
+
+@font-face {
+  font-family: "Firasansregular";
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts/Firasansregular/Firasansregular.ttf);
+}
